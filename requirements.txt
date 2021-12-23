@@ -16,3 +16,5 @@ pytest-cov==3.0.0
 toml==0.10.2
 tomli==1.2.1
 wrapt==1.12.1
+
+Faker~=10.0.0
