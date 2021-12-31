@@ -34,7 +34,6 @@ def preparing_info():
 
 
 class CoffeeMachine:
-    #init_state = None
 
     def __init__(self, water, milk, beans, cups, money):
         self.water = water
